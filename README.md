@@ -270,6 +270,41 @@ Investigate detection of multi-vector attacks (e.g., combining RDP brute-force w
 Integrate Snort with centralized logging and alerting systems
 Develop custom signatures for emerging attack tools
 
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-1.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-2.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-3.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-4.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-5.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-6.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-7.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Task%202%20-%20What%20is%20the%20used%20protocol%3Aport%20in%20the%20attack%3F.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-9.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-10.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-11.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/870d139064df858da9c0b6c46c6e66fb0ebf7b4a/Scenario%202-12.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/ec5ea80ac6009f2f554556df3bab24b3efca06a4/Scenario%202-13.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/2103c52f02fdf9f2ecd45e1f8c217108856b498c/Scenario%202-14.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/868ca808fea4bc92ea96e83caec6de74a0d97d4a/Scenario%202-15.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/436495590f67d0abc8adf4598619807c09f667aa/Scenario%202-16.png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/436495590f67d0abc8adf4598619807c09f667aa/Task%201%20-%20Stop%20the%20attack%20and%20get%20the%20flag%20(which%20will%20appear%20on%20your%20Desktop).png)
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/436495590f67d0abc8adf4598619807c09f667aa/Task%203%20-%20Which%20tool%20is%20highly%20associated%20with%20this%20specific%20port%20number%3F.png)
 
 
 
