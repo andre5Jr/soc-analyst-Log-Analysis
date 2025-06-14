@@ -124,3 +124,20 @@ Integrate Snort with alerting tools (e.g., Splunk, ELK)
 Automate rule deployment for faster response
 
 ![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/8d3da9a81c7266e371a01ae795d4c346fde059af/Scenario%201-1.png) 
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-2.png) 
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-3.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-4.png)     
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-5.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Task%203%20-%20Identify%20the%20Protocol%20and%20Port%20Used.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-7.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Task%202%20-%20Identify%20the%20Targeted%20Service.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-9.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-10.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-11.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-12.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-13.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-14.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-15.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-16.png)   
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Scenario%201-17.png)  
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/e83f912cf2f6d5c8c2eeded0fe721b30249ea291/Task%201%20-%20Stop%20the%20Attack%20and%20Retrieve%20the%20Flag.png) 
