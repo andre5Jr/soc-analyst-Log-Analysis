@@ -122,3 +122,5 @@ Defensive response validation
 Explore advanced detection (e.g., port scans, DDoS)
 Integrate Snort with alerting tools (e.g., Splunk, ELK)
 Automate rule deployment for faster response
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Log-Analysis/blob/8d3da9a81c7266e371a01ae795d4c346fde059af/Scenario%201-1.png) 
