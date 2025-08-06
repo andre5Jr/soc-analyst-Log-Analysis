@@ -37,6 +37,8 @@ Wrote a custom Snort rule to block SSH login attempts
 
 Ran Snort in IPS mode (-A full) to enforce the rule and stop the traffic
 
+🔱 Answer: THM{81b7fef657f8aaa6e4e200d616738254}
+
 ✅ Outcome:
 Attack was successfully blocked. After blocking traffic for over one minute, the flag appeared on the desktop.
 
@@ -54,6 +56,8 @@ Inspected packet payloads and destination ports
 
 Recognized patterns consistent with SSH authentication attempts
 
+🔱 Answer: SSH
+
 ✅ Outcome:
 Identified SSH as the targeted service.
 
@@ -70,6 +74,8 @@ Find the protocol and port associated with the brute-force traffic.
 Analyzed Snort logs and packet headers
 
 Identified protocol and port information from traffic metadata
+
+🔱 Answer: TCP/22
 
 ✅ Outcome:
 Determined the attack used TCP protocol on port 22.
@@ -184,6 +190,8 @@ Created a Snort IPS rule targeting the attack traffic
 
 Deployed Snort in IPS mode (-A full) to enforce the rule and block the attack
 
+🔱 Answer: THM{0ead8c494861079b1b74ec2380d2cd24}
+
 ✅ Outcome:
 Successfully stopped the attack. After blocking malicious traffic for at least one minute, the flag appeared on the desktop.
 
@@ -201,6 +209,8 @@ Examined Snort logs and packet headers for relevant metadata
 
 Confirmed protocol type and destination port used by the attacker
 
+🔱 Answer: tcp/4444
+
 ✅ Outcome:
 Identified the attack used TCP protocol on port 3389.
 
@@ -217,6 +227,8 @@ Determine which tool is commonly associated with the targeted port in the attack
 Researched common services and tools linked to port 3389
 
 Correlated attack characteristics with tool functionality
+
+🔱 Answer: Metasploit
 
 ✅ Outcome:
 Recognized RDP (Remote Desktop Protocol) and tools like Ncrack or Hydra as commonly associated with port 3389 brute-force attacks.
