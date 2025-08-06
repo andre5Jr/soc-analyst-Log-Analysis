@@ -22,7 +22,7 @@ Service and protocol identification
 This project focused on using Snort to detect and stop a live brute-force attack in a simulated environment. After analyzing captured traffic, I created and tested a custom IPS rule to block the attack. The success of the mitigation was confirmed when a flag appeared on the desktop. The investigation also required identifying the targeted service and the protocol/port involved.
 
 2. Task Breakdown
-✏️ Task 1: Stop the Attack and Retrieve the Flag
+✏️ Task 1: Stop the attack and get the flag (which will appear on your Desktop)
 
 ⭕️ Objective:
 Detect and block the brute-force attack using Snort to trigger the appearance of the flag.
@@ -45,7 +45,7 @@ Attack was successfully blocked. After blocking traffic for over one minute, the
 📸 Screenshot Space:
 [Snort output, rule file, or flag confirmation]
 
-✏️ Task 2: Identify the Targeted Service
+✏️ Task 2: What is the name of the service under attack?
 
 ⭕️ Objective:
 Determine which service was being attacked in the brute-force attempt.
@@ -64,7 +64,7 @@ Identified SSH as the targeted service.
 📸 Screenshot Space:
 [Capture of traffic showing SSH activity or port 22]
 
-✏️ Task 3: Identify the Protocol and Port Used
+✏️ Task 3: What is the used protocol/port in the attack?
 
 ⭕️ Objective:
 Find the protocol and port associated with the brute-force traffic.
@@ -175,7 +175,7 @@ Tool association with network ports
 This project focused on using Snort to monitor live network traffic, identify a brute-force attack, and block it through a custom IPS rule. After stopping the attack and retrieving the flag, the investigation extended to determining the protocol and port involved, as well as identifying the common tool associated with the attack’s port.
 
 2. Task Breakdown
-✏️ Task 1: Stop the Attack and Retrieve the Flag
+✏️ Task 1: Stop the attack and get the flag (which will appear on your Desktop)
 
 ⭕️ Objective:
 Detect and block the brute-force attack using Snort to trigger the appearance of the flag.
@@ -198,7 +198,7 @@ Successfully stopped the attack. After blocking malicious traffic for at least o
 📸 Screenshot Space:
 [Snort console output, custom rule, or flag confirmation]
 
-✏️ Task 2: Identify the Protocol and Port Used
+✏️ Task 2: What is the used protocol/port in the attack?
 
 ⭕️ Objective:
 Determine the protocol and port involved in the brute-force attack.
@@ -217,7 +217,7 @@ Identified the attack used TCP protocol on port 3389.
 📸 Screenshot Space:
 [Snort log or packet capture highlighting TCP:3389]
 
-✏️ Task 3: Identify the Tool Associated with the Port
+✏️ Task 3: Which tool is highly associated with this specific port number?
 
 ⭕️ Objective:
 Determine which tool is commonly associated with the targeted port in the attack.
